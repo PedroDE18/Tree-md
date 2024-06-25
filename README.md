@@ -8,6 +8,7 @@ Este é o meu conjunto de anotações durante a faculdade de medicina, organizad
 - Livros
 - Artigos
 - Marrom Escuro (#4B2C20)
+
 "#Tronco"
 - Temas Basilares, como:
 	- Anatomia
@@ -20,16 +21,20 @@ Este é o meu conjunto de anotações durante a faculdade de medicina, organizad
 	- Bioestatística
 	- Etc.
 	- Marrom (#8B4513)
+
 "#Galho"
 - Especialidades médicas
 - Notas de Organização
 - Marrom Claro (#A0522D)
+
 "#Folha"
 - Temas com perguntas
 - Verde (#228B22)
+
 "#Flor"
 - Perguntas sem respostas
 - Vermelho (#FF6347)
+
 "#Fruto"
 - Perguntas com respostas
 - Protocolos
