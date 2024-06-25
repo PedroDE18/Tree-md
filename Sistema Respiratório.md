@@ -1,6 +1,8 @@
 Status: #Galho 
 Tags: [[Anatomia]], [[Pneumologia]]
 <br/>
+- [[Cavidade Nasal]]
+- [[Laringe]]
 - [[Traqueia]]
 - [[Brônquios]]
 - [[Pulmões]]
