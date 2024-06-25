@@ -1,5 +1,3 @@
-2023-09-05 15:55
-
 Este é o meu conjunto de anotações durante a faculdade de medicina, organizados segundo a seguinte lógica:
 
 "#Raiz"

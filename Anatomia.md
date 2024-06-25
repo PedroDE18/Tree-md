@@ -1,11 +1,10 @@
-2023-11-17 14:41
 Status: #Tronco 
 Tags:
 <br/>
 ____
 # Referências
-- 
+- [[Fundamentos de Anatomia Clínica - Moore]]
 ---
-# Aulas
-- [[Traqueia, Brônquios, Pleura e Pulmões]]
+# Subdivisões
+- [[Sistema Respiratório]]
 
