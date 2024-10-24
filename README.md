@@ -9,7 +9,7 @@ Este é o meu conjunto de anotações durante a faculdade de medicina, organizad
 
 "#Tronco"
 - Temas Basilares, como:
-	- [[Anatomia]]
+	- [Anatomia](Anatomia.html)
 	- Fisiologia
 	- Histologia
 	- Biologia Celular
