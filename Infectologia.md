@@ -12,4 +12,3 @@ ____
 - [[Meningite]]
 - [[Tétano]]
 - [[Raiva]]
-- 
