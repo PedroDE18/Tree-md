@@ -1,6 +1,6 @@
 2023-03-19 19:07
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha    
+Tags:  [[Transtornos de Ansiedade]]
 <br/>
 >[!info] Definição
 >Medo intenso de Objeto, Circunstância ou Situação Específicos

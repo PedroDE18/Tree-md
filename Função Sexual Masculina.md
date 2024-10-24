@@ -1,4 +1,3 @@
-2023-06-05 19:08
 Status: #🌱 
 Tags: [[Urologia]], [[Disfunções Sexuais]]
 <br/>

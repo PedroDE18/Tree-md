@@ -1,6 +1,5 @@
-2023-03-1912:00
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha    
+Tags:  [[Transtornos de Ansiedade]]
 <br/>
 - Uma obsessão é um pensamento/sentimento/ideia/sensação recorrente ou intrusiva
 - Uma compulsão é um comportamento consciente padronizado e recorrente
@@ -34,7 +33,7 @@ Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
 ## Tratamento
 - [[ISRS]]
 - [[Tricíclicos]]
-	- Clomipramina
+	- [[Clomipramina]]
 - Psicoterapia
 	- TCC
 ## TOC ou relacionado devido a outra condição médica

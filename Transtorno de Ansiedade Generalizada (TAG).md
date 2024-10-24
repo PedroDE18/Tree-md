@@ -1,6 +1,6 @@
 2023-03-19 20:30
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha    
+Tags: [[Transtornos de Ansiedade]]
 <br/>
 >[!info] Definição
 >Ansiedade e preocupação excessivas com vários eventos ou atividades na maior parte dos dias por um período de pelo menos 6 meses

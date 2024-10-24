@@ -1,6 +1,5 @@
-2023-03-19 20:45
-Status: #🌱 
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha 
+Tags:  [[Transtornos de Ansiedade]]
 <br/>
 >[!info] Descrição
 >Arrancar os cabelos repetitivamente

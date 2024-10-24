@@ -146,7 +146,7 @@ Tags: [[Imunologia]]
 - [[Hipogamaglobulinemia]]
 - Opsonização ineficaz
 - Redução no fator B (SC)
-- Aumento da susceptibilidade a: [[Pneumococo]], _[[Haemophilus influenza]]_ e _[[Escherichia coli]]_
+- Aumento da susceptibilidade a: [[Streptococcus pneumoniae|Pneumococo]], _[[Haemophilus influenza]]_ e _[[Escherichia coli]]_
 ### [[Enteropatia Perdedora de Proteínas]]
 - [[Hipogamaglobulinemia]]
 - [[Linfopenia]]

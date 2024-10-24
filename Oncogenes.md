@@ -1,5 +1,5 @@
 2023-09-05 15:55
-Status: #⚛ 
+Status: #Flor  
 
 ---
 # Compass
@@ -12,7 +12,6 @@ Status: #⚛
 	- [[Tumor Suppressor Genes (TSGs)]]
 - Ao que leva?
 	- [[Drogas Alvo-Moleculares]]
-	- 
 ----
 # Pergunta
 

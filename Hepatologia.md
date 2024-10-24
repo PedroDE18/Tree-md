@@ -1,9 +1,17 @@
 2023-03-19 17:02
-Status: #Topic 
+Status: #Galho  
 Tags: [[Gastroenterologia]]
 <br/>
-Matéria do 1o bimestre do 3o ano
-Dada em conjunto com gastroenterologia
+# Aulas
+- [[Cirrose Hepática]]
+- [[Encefalopatia Hepática]]
+- [[Ascite]]
+- [[Hepatites Virais]]
+- [[Hepatite Autoimune]]
+- [[Hepatopatias Crônicas]]
+- [[Hepatopatia Crônica Alcóolica]]
+- [[Hipertensão Portal (HP)]]
+- [[Síndrome Hepatorrenal (SHR)]]
 ____
 # Referências
 

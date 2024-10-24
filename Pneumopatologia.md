@@ -160,7 +160,7 @@ Tags: [[Patologia]], [[Pneumologia]]
 	- Queda da resistência sistêmica do hospedeiro
 - Comprometimento pulmonar --> Padrão sugere agente
 	- Consolidação / Condensação (mais ff.)
-		- [[Pneumococo]]
+		- [[Streptococcus pneumoniae|Pneumococo]]
 		- _[[Klebisiella pneumoniae]]_
 		- _[[Haemophilus influenza]]_
 	- Interstício

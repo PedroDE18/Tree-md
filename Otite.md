@@ -167,7 +167,7 @@ Tags: [[Otorrinolaringologia (ORL)]]
 	- Orientações dietéticas (evitar refluxo)
 	- Amamentação
 	- [[Tabagismo]] passivo
-	- Vacinações contra pneumococo e influenza
+	- Vacinações contra [[Streptococcus pneumoniae|pneumococo]] e influenza
 - Colocação de tubo de ventilação
 	- 3 OMAs em 6 meses
 	- 4 OMAs em 1 ano

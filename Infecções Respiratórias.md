@@ -42,8 +42,8 @@ Tags: [[Pneumologia]]
 - Resolução
 - Células caliciformes secretam Igs sanguíneas para o muco
 ### Etiologias mais Comuns
-- S. pneumonie (Pneumococo)
-- S. aureus
+- [[Streptococcus pneumoniae]] (Pneumococo)
+- [[Staphylococcus aureus]]
 ### QC
 - Febre (80%)
 	- Extremos de idade podem não ter

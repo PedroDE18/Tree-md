@@ -8,7 +8,7 @@ Status: #⚛
 	- [[Mecanismos de Ação de Drogas Quimioterápicas]]
 	- [[Princípios da Oncologia]]
 - O que é similar?
-	- [[Resistencia Antimicrobiana]]
+	- [[Resistência Antimicrobiana]]
 - O que é antagônico?
 - Ao que leva?
 	- [[Drogas Alvo-Moleculares]]

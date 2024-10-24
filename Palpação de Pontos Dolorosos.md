@@ -1,5 +1,4 @@
-2023-09-05 15:55
-Status: #⚛ 
+Status: #Fruto 
 
 ---
 # Compass

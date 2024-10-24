@@ -118,7 +118,7 @@ Tags: [[Imunologia]]
 	- SNC --> Deficiência em via alternativa, em terminal
 	- Sangue --> pp. se deficiência em via alternativa
 - Sinais de Alerta
-	- Infecções de repetição por extracelulares --> Pneumococos, hemófilos, e meningococos
+	- Infecções de repetição por extracelulares --> [[Streptococcus pneumoniae|Pneumococos]], hemófilos, e meningococos
 	- Meningite Meningocócica >5a idade
 	- Manifestações autoimunes
 	- Angioedema sem urticária

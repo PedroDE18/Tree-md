@@ -1,5 +1,5 @@
 2023-04-06 15:14
-Status: #🌱   
+Status: #Folha 
 Tags: [[Dermatologia]], [[Cirurgia Plástica]], [[Oncologia]], [[Patologia]]
 <br/>
 - Neoplasia Benigna
@@ -12,7 +12,7 @@ Tags: [[Dermatologia]], [[Cirurgia Plástica]], [[Oncologia]], [[Patologia]]
 - Pele áspera
 ## Tratamento
 - Tópico
-	- 5-Fluoracil (5FU)
+	- [[5-Fluoracil (5FU)]] 
 	- Diclorofenato com ác. hialurônico em gel
 	- Imiquimode (creme)
 	- Igenol metabutato (gel)

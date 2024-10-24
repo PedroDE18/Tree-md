@@ -1,6 +1,5 @@
-2023-03-19 20:42
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha    
+Tags: [[Transtornos de Ansiedade]]
 <br/>
 >[!info] Descrição
 >Preocupação com um defeito imaginado na aparência que causa sofrimento

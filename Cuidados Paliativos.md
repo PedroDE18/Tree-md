@@ -1,5 +1,5 @@
 2023-09-24 19:03
-Status: #🌱 
+Status: #Galho  
 Tags: [[Oncologia]], [[Geriatria]], [[Psiquiatria]]
 <br/>
 - Portadores de doenças incuráveis

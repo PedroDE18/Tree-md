@@ -1,6 +1,6 @@
 2023-03-19 18:59
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha    
+Tags:  [[Transtornos de Ansiedade]]
 <br/>
 >[!info] Definição
 >Medo ou ansiedade quanto a lugares dos quais a fuga pode ser difícil

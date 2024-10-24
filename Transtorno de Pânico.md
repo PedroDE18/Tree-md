@@ -1,6 +1,6 @@
 2023-03-19 18:44
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha    
+Tags: [[Transtornos de Ansiedade]]
 <br/>
 >[!info] Definição
 > Um ataque intenso e agudo de ansiedade

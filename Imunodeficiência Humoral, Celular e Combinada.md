@@ -1,4 +1,3 @@
-2023-11-28 16:37
 Status: #🌱 
 Tags: [[Imunologia]]
 <br/>
@@ -10,7 +9,7 @@ Tags: [[Imunologia]]
 	- Aumento da susceptibilidade a:
 		- Bactérias Encapsuladas
 			- [[Estreptococos]]
-			- [[Pneumococo]]
+			- [[Streptococcus pneumoniae|Pneumococos]]
 			- [[Neisseria meningiditis|Neisseria]]
 		- [[Enterovírus]]
 		- Protozoários

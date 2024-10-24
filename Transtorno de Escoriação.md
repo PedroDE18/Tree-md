@@ -1,6 +1,5 @@
-2023-03-19 20:47
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha    
+Tags: [[Transtornos de Ansiedade]]
 <br/>
 >[!info] Descrição
 >Comportamento compulsivo de beliscar a pele, frequentemente gerando feridas

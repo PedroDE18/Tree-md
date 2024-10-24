@@ -82,7 +82,7 @@ Tags: [[Pneumologia]], [[Pediatria]], [[Atenção Primária em Saúde (APS)]]
 	- Evitar fatores de risco
 	- Educação em asma
 		- Desenvolvimento de plano de ação
-	- Vacina para [[Influenza]], [[Pneumococo]]
+	- Vacina para [[Influenza]], [[Streptococcus pneumoniae|Pneumococo]]
 	- Determinação da gravidade e controle
 	- Farmacológico (inter-crise)
 		- [[Corticosteróides]] inalados (CI)

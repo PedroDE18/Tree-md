@@ -9,7 +9,7 @@ Tags: [[Pediatria]], [[Neurologia]], [[Infectologia]]
 - Risco tão menor quanto mais novo
 - Agente etiológico
 	- <2 meses
-		- _[[Neisseria meningiditis]]_
+		- _[[Neisseria meningiditis]]_ (Meningococo)
 		- Enterobactérias
 			- _[[Escherichia coli]]_
 			- _[[Salmonella spp.]]_
@@ -53,7 +53,8 @@ Tags: [[Pediatria]], [[Neurologia]], [[Infectologia]]
 - Liberação de Endotoxinas (G-) ou Peptidoglicano e Ácido Tecóico (G+)
 	- Inflamação --> Estímulo de células endoteliais --> ILs, [[TNFα]], etc.
 ## Virais
-- Mais frequentes
+- Mais frequentes --> 50% dos casos
+- Geralmente evolução benigna
 - 85% [[Enterovírus]] --> [[Echovírus]], [[Poliovírus]], [[Coxsackievírus]]
 - Outros
 	- [[Arboviroses]]
@@ -65,6 +66,11 @@ Tags: [[Pediatria]], [[Neurologia]], [[Infectologia]]
 	- [[Vírus Epstein-Barr]]
 	- [[Citomegalovírus]]
 	- [[Herpes Vírus]] (Pior prognóstico)
+		- Doença grave, disseminada
+		- [[HSV-1]] --> Mesmo em Imunocompetentes
+		- [[HSV-2]] --> Imunossuprimidos
+		- pp. mulheres <20a ou >40a
+		- Diagnóstico via LCR, PCR, RMN contrastada (acometimento)
 ### Patogenia
 - [[Edema Cerebral]] --> Aumento da pressão intracraniana
 - Trombose + [[Vasculite]] + Necrose Tissular

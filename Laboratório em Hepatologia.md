@@ -1,4 +1,3 @@
-2023-03-16 12:41
 Status: #🌱 
 Tags: [[Gastroenterologia]], [[Hepatologia]]
 <br/>
@@ -57,10 +56,13 @@ Tags: [[Gastroenterologia]], [[Hepatologia]]
 - Aumento da BbT às custas da BbD
 	- Doenças Colestáticas e Hepatocelulares
 ### Marcadores de Agressão Hepática
-		|       | Hepatocelular | Colestática | Mista |
-		|  ALT  |      >2N      |             |  >2N  |
-		|  FAL  |               |     >2N     |  >2N  |
-		|ALT/FAL|      >5N      |     <2N     |  2-5N |
+
+|         | Hepatocelular | Colestática | Mista |
+| ------- | ------------- | ----------- | ----- |
+| ALT     | >2N           |             | >2N   |
+| FAL     |               | >2N         | >2N   |
+| ALT/FAL | >5N           | <2N         | 2-5N  |
+
 - Hepatite Fulminante
 	- AST e ALT >10x
 	- Encefalopatia

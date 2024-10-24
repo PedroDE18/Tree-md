@@ -1,6 +1,6 @@
 2023-03-19 19:10
-Status: #🌱 
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha  
+Tags:  [[Transtornos de Ansiedade]]
 <br/>
 >[!info] Definição
 >Medo de situações sociais
@@ -22,8 +22,9 @@ Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
 	- Para sintomas físicos (tremores e palpitações) e não psíquicos
 - [[iMAO]]
 - [[ISRSN]]
-	- Venlafaxina
-- Buspirona
+	- [[Venlafaxina]]
+	- [[Desvenlafaxina]]
+- [[Buspirona]]
 - Psicoterapia
 	- Cognitiva
 	- de Exposição

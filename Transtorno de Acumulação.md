@@ -1,6 +1,5 @@
-2023-03-19 20:43
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos de Ansiedade]]
+Status: #Folha    
+Tags:  [[Transtornos de Ansiedade]]
 <br/>
 > [!info] Descrição
 > Aquisição sem descarte de coisas de pouco valor que resulta em amontoamento excessivo
